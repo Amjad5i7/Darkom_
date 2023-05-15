@@ -1,0 +1,6 @@
+node_modules/*
+upload/service-files/*
+upload/user_profile_pic/*
+package-lock.json
+.idea/*
+images/.gitkeep
